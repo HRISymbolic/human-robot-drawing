@@ -1,2 +1,2 @@
-# human-robot-drawing
-Drawing strategies during human-robot symbolic communication.
+# HumanModelVSA
+Human-model comparison of Visual Social Attention (VSA) during help-and-hinder social interaction classification from videos.
